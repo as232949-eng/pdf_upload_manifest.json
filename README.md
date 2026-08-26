@@ -1,1 +1,0 @@
-# pdf_upload_manifest.json
