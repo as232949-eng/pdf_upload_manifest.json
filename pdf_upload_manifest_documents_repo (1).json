@@ -1,0 +1,173 @@
+{
+  "repository": "as232949-eng/documents",
+  "targetFolder": "",
+  "readyDocumentCount": 20,
+  "missingDocumentCount": 4,
+  "uploadInstructions": "ارفع ملفات PDF إلى جذر مستودع documents مع الحفاظ على الاسم الظاهر في uploadFileName.",
+  "readyDocuments": [
+    {
+      "companyId": 2,
+      "companyName": "الساحز للاذوَات المكتبيه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "company2.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/company2.pdf"
+    },
+    {
+      "companyId": 3,
+      "companyName": "اجنده لالحاق العماله المصريه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "اجندهلالحاقالعمالهالمصريه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%A7%D8%AC%D9%86%D8%AF%D9%87%D9%84%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%87%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 4,
+      "companyName": "الكبيبات للمقاولات العامه والتوريدات العموميه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "الكبيباتللمقاولاتالعامهوالتوريداتالعموميه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%A8%D8%A7%D8%AA%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%87%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 5,
+      "companyName": "بلاور للأمن الصناعي",
+      "title": "فتح المستند 1 PDF",
+      "uploadFileName": "بلاورللامنالصناعي.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%A8%D9%84%D8%A7%D9%88%D8%B1%D9%84%D9%84%D8%A7%D9%85%D9%86%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A.pdf"
+    },
+    {
+      "companyId": 5,
+      "companyName": "بلاور للأمن الصناعي",
+      "title": "فتح المستند 2 PDF",
+      "uploadFileName": "شركةبلاورللأمنالصناعي.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%B4%D8%B1%D9%83%D8%A9%D8%A8%D9%84%D8%A7%D9%88%D8%B1%D9%84%D9%84%D8%A3%D9%85%D9%86%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A.pdf"
+    },
+    {
+      "companyId": 6,
+      "companyName": "بنفورا للتوريدات العموميه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "بنفوراللتوريداتالعموميه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%A8%D9%86%D9%81%D9%88%D8%B1%D8%A7%D9%84%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 7,
+      "companyName": "تاررياروت للادوات المكتبيه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "تاررياروتللادواتالمكتبيه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AA%D8%A7%D8%B1%D8%B1%D9%8A%D8%A7%D8%B1%D9%88%D8%AA%D9%84%D9%84%D8%A7%D8%AF%D9%88%D8%A7%D8%AA%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 8,
+      "companyName": "ترادنج للتوريدات العموميه والمقاولات العامه",
+      "title": "فتح المستند 1 PDF",
+      "uploadFileName": "ترادنجللتشطيبات.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AA%D8%B1%D8%A7%D8%AF%D9%86%D8%AC%D9%84%D9%84%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8%D8%A7%D8%AA.pdf"
+    },
+    {
+      "companyId": 8,
+      "companyName": "ترادنج للتوريدات العموميه والمقاولات العامه",
+      "title": "فتح المستند 2 PDF",
+      "uploadFileName": "ترادنجللتوريداتالعموميةوالمقاولاتالعامه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AA%D8%B1%D8%A7%D8%AF%D9%86%D8%AC%D9%84%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%87.pdf"
+    },
+    {
+      "companyId": 9,
+      "companyName": "تريزون للدعايه والاعلان",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "تريزونللدعايهوالاعلان.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AA%D8%B1%D9%8A%D8%B2%D9%88%D9%86%D9%84%D9%84%D8%AF%D8%B9%D8%A7%D9%8A%D9%87%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86.pdf"
+    },
+    {
+      "companyId": 10,
+      "companyName": "شركة دوت لاين للكومبيوتر",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "دوتلاينللكمبيوتر.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AF%D9%88%D8%AA%D9%84%D8%A7%D9%8A%D9%86%D9%84%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1.pdf"
+    },
+    {
+      "companyId": 11,
+      "companyName": "دونت لتجاره الاحبار والورق والكرتون",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "دونتلتجارةالاحباروالورقوالكرتون.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AF%D9%88%D9%86%D8%AA%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9%D8%A7%D9%84%D8%A7%D8%AD%D8%A8%D8%A7%D8%B1%D9%88%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%AA%D9%88%D9%86.pdf"
+    },
+    {
+      "companyId": 12,
+      "companyName": "ديفارول للاجهزه الطبيه والمستلزمات الطبيه والكيماويات",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "ديفارولللاجهزهالطبيه_-.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%AF%D9%8A%D9%81%D8%A7%D8%B1%D9%88%D9%84%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D9%87%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D9%87_-.pdf"
+    },
+    {
+      "companyId": 13,
+      "companyName": "رموز للكمبيوتر و البرمجيات",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "رموزللكمبيوتروالبرمجيات.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%B1%D9%85%D9%88%D8%B2%D9%84%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA.pdf"
+    },
+    {
+      "companyId": 14,
+      "companyName": "ريفيو للتوريدات العموميه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "ريفيوللتوريداتالعموميه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%B1%D9%8A%D9%81%D9%8A%D9%88%D9%84%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 15,
+      "companyName": "زخارف للمقاولات العامه والتوريدات العموميه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "زخارفللمقاولاتالعامهوالتوريداتالعموميه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%B2%D8%AE%D8%A7%D8%B1%D9%81%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%87%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D9%87.pdf"
+    },
+    {
+      "companyId": 16,
+      "companyName": "سيراكس لتصنيع البلاستيك و النحاس و الالمنيوم و تشكيل المعادن",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "سجلصناعيسبراكسلتصنيعالبلاستيكوالنحاسوالالمنيوموتشكيلالمعادن.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D8%B3%D8%AC%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%B3%D8%A8%D8%B1%D8%A7%D9%83%D8%B3%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%D9%88%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85%D9%88%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86.pdf"
+    },
+    {
+      "companyId": 18,
+      "companyName": "فتنس للسياحة",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "فتنسللسياحة.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D9%81%D8%AA%D9%86%D8%B3%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9.pdf"
+    },
+    {
+      "companyId": 21,
+      "companyName": "كيوماكس للنقل",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "كيوماكسللنقل.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D9%83%D9%8A%D9%88%D9%85%D8%A7%D9%83%D8%B3%D9%84%D9%84%D9%86%D9%82%D9%84.pdf"
+    },
+    {
+      "companyId": 22,
+      "companyName": "هالونيز للمقاولات العامه والتوريدات العموميه",
+      "title": "فتح المستند PDF",
+      "uploadFileName": "هالونيزللمقاولاتالعامهوالتوريداتالعموميه.pdf",
+      "rawUrlAfterUpload": "https://raw.githubusercontent.com/as232949-eng/documents/main/%D9%87%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B2%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%87%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D9%87.pdf"
+    }
+  ],
+  "missingDocuments": [
+    {
+      "companyId": 1,
+      "companyName": "هيلنكس للكمبيوتر",
+      "missingFileName": "DOC-20260820-WA0143.pdf"
+    },
+    {
+      "companyId": 17,
+      "companyName": "سحر شحاتة للمقاولات العامة والتوريدات العمومية",
+      "missingFileName": "سحرشحاتهللمقاولاتوالخرسانةالجاهزة.pdf"
+    },
+    {
+      "companyId": 19,
+      "companyName": "فيرونتان لتجارة الاخشاب والموبيليا",
+      "missingFileName": "فيرونتانلتجارةالاخشابوالموبيليا.pdf"
+    },
+    {
+      "companyId": 20,
+      "companyName": "كوتورا للمواد الغذائبة",
+      "missingFileName": "كوتوراللموادالغذائية..pdf"
+    }
+  ],
+  "branch": "main",
+  "rawBaseUrl": "https://raw.githubusercontent.com/as232949-eng/documents/main"
+}
